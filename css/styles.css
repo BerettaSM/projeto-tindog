@@ -190,7 +190,7 @@ footer#footer i.footer-icon {
 
 @media (max-width:1028px) {
 
-    section#title {
+    section#title .container-fluid {
         text-align: center;
     }
 
